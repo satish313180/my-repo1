@@ -1,3 +1,4 @@
-pulks
+pulka
 parota
+chapathi
 
